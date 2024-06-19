@@ -1,0 +1,4 @@
+clipspy==1.0.0
+Flask==2.0.3
+gunicorn==20.1.0
+Werkzeug==2.2.2
