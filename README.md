@@ -29,7 +29,7 @@ git clone https://github.com/Ashhar-24/Medical-Diagnosis_ExpertSystem.git
 cd Medical-Diagnosis_ExpertSystem
 ```
 
-2. Set Up the Environment:
+2. Set Up the Environment (ubuntu):
 ```
 python3 -m venv env
 source env/bin/activate
