@@ -29,11 +29,21 @@ git clone https://github.com/Ashhar-24/Medical-Diagnosis_ExpertSystem.git
 cd Medical-Diagnosis_ExpertSystem
 ```
 
-2. Set Up the Environment (ubuntu):
+2. Set Up the Environment 
+
+2. 1 For Ubuntu:
 ```
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
+```
+    
+2. 2 For Windows:
+```
+python -m venv env
+.\env\Scripts\activate
+pip install -r requirements.txt
+
 ```
 
 3. Run the Flask Server:
